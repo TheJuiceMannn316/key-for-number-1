@@ -1,1 +1,0 @@
-script_ key='YiQAxCEPGYSYZOUkELavohiwLhBkCQp';loadstring (game :HttpGet ("https://raw.githubusercontent.com/YunaDevO/Yuna/ main/loader. lua")) ()
